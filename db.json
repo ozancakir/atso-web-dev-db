@@ -1,5 +1,5 @@
 {
-  "siteOptions": {
+  "navigation": {
     "hashId": "9z",
     "key": "Main Menu",
     "children": [
@@ -122,5 +122,53 @@
       "path": "/#",
       "status": true
     }
+  },
+  "site-options": {
+    "headerLogo": "https://iconape.com/wp-content/files/vx/254867/png/254867.png",
+    "headerLogoMini": "https://iconape.com/wp-content/files/vx/254867/png/254867.png",
+    "languages": ["tr", "en"],
+    "selectedLanguage": "tr",
+    "mediaLinks": [
+      {
+        "name": "facebook",
+        "iconName": "facebook",
+        "iconGroup": "fab",
+        "hoverColor": "-text-blue-800",
+        "url": "https://www.facebook.com/AntalyaTSO/",
+        "order": 1
+      },
+      {
+        "name": "instagram",
+        "iconName": "instagram",
+        "iconGroup": "fab",
+        "hoverColor": "-text-pink-800",
+        "url": "https://www.facebook.com/AntalyaTSO/",
+        "order": 2
+      },
+      {
+        "name": "twitter",
+        "iconName": "twitter",
+        "iconGroup": "fab",
+        "hoverColor": "-text-blue-300",
+        "url": "https://www.facebook.com/AntalyaTSO/",
+        "order": 3
+      },
+      {
+        "name": "youtube",
+        "iconName": "youtube",
+        "iconGroup": "fab",
+        "hoverColor": "-text-red-500",
+        "url": "https://www.facebook.com/AntalyaTSO/",
+        "order": 4
+      },
+      {
+        "name": "linkedin",
+        "iconName": "linkedin",
+        "iconGroup": "fab",
+        "hoverColor": "-text-blue-400",
+        "url": "https://www.facebook.com/AntalyaTSO/",
+        "order": 5
+      }
+    ]
   }
 }
