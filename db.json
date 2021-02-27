@@ -132,35 +132,35 @@
       {
         "name": "facebook",
         "icon": "fab fa-facebook-square",
-        "hoverColor": "-text-blue-800",
+        "hoverColor": "#fff",
         "url": "https://www.facebook.com/AntalyaTSO/",
         "order": 1
       },
       {
         "name": "instagram",
         "icon": "fab fa-instagram",
-        "hoverColor": "-text-pink-800",
+        "hoverColor": "#fff",
         "url": "https://www.facebook.com/AntalyaTSO/",
         "order": 2
       },
       {
         "name": "twitter",
         "icon": "fab fa-twitter",
-        "hoverColor": "-text-blue-300",
+        "hoverColor": "#fff",
         "url": "https://www.facebook.com/AntalyaTSO/",
         "order": 3
       },
       {
         "name": "youtube",
         "icon": "fab fa-youtube",
-        "hoverColor": "-text-red-500",
+        "hoverColor": "#fff",
         "url": "https://www.facebook.com/AntalyaTSO/",
         "order": 4
       },
       {
         "name": "linkedin",
         "icon": "fab fa-linkedin",
-        "hoverColor": "-text-blue-400",
+        "hoverColor": "#fff",
         "url": "https://www.facebook.com/AntalyaTSO/",
         "order": 5
       }
