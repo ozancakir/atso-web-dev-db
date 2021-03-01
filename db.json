@@ -166,92 +166,88 @@
       }
     ]
   },
-  "content": {
-    "preview": {
-      "news": [
-        {
-          "key": "1",
-          "title": "Türkiye-Moldova Ticaret ve Sanayi Odası Forumu",
-          "content": "Türkiye Odalar ve Borsalar Birliği (TOBB), Türkiye ve Moldova arasındaki ilişkilerin güçlendirilmesi,\n ticaretin ve yatırımların arttırılması ve iki ülke arası potansiyel işbirliği alanlarının belirlenmesi konularını esas alarak, Moldova’ya yönelik çalışmalarını sürdürmektedir. Bahse konu çalışmalar kapsamında,15 Aralık 2020 tarihinde, TOBB ve Moldova Ticaret ve Sanayi Odası (CC RM) tarafından.",
-          "date": "06.01.2021",
-          "tags": ["Kök Ödülleri", "İnovasyon"],
-          "link": {
-            "url": "/haberler/turkiye-moldova-sanayi-odasi-forumu",
-            "samePage": true
-          }
-        },
-        {
-          "key": "2",
-          "title": "Başlık 1",
-          "content": "Başlık 1 için content",
-          "date": "06.01.2021",
-          "tags": ["Kök Ödülleri", "İnovasyon"],
-          "link": {
-            "url": "/haberler/turkiye-moldova-sanayi-odasi-forumu",
-            "samePage": true
-          }
-        },
-        {
-          "key": "3",
+  "preview/news": [
+    {
+      "key": "1",
+      "title": "Türkiye-Moldova Ticaret ve Sanayi Odası Forumu",
+      "content": "Türkiye Odalar ve Borsalar Birliği (TOBB), Türkiye ve Moldova arasındaki ilişkilerin güçlendirilmesi,\n ticaretin ve yatırımların arttırılması ve iki ülke arası potansiyel işbirliği alanlarının belirlenmesi konularını esas alarak, Moldova’ya yönelik çalışmalarını sürdürmektedir. Bahse konu çalışmalar kapsamında,15 Aralık 2020 tarihinde, TOBB ve Moldova Ticaret ve Sanayi Odası (CC RM) tarafından.",
+      "date": "06.01.2021",
+      "tags": ["Kök Ödülleri", "İnovasyon"],
+      "link": {
+        "url": "/haberler/turkiye-moldova-sanayi-odasi-forumu",
+        "samePage": true
+      }
+    },
+    {
+      "key": "2",
+      "title": "Başlık 1",
+      "content": "Başlık 1 için content",
+      "date": "06.01.2021",
+      "tags": ["Kök Ödülleri", "İnovasyon"],
+      "link": {
+        "url": "/haberler/turkiye-moldova-sanayi-odasi-forumu",
+        "samePage": true
+      }
+    },
+    {
+      "key": "3",
 
-          "title": "Başlık 2",
-          "content": "Başlık 2 için content",
-          "date": "06.01.2021",
-          "tags": ["Kök Ödülleri", "İnovasyon"],
-          "link": {
-            "url": "https://enprobilisim.com",
-            "samePage": false
-          }
-        },
-        {
-          "key": "4",
+      "title": "Başlık 2",
+      "content": "Başlık 2 için content",
+      "date": "06.01.2021",
+      "tags": ["Kök Ödülleri", "İnovasyon"],
+      "link": {
+        "url": "https://enprobilisim.com",
+        "samePage": false
+      }
+    },
+    {
+      "key": "4",
 
-          "title": "Başlık 3",
-          "content": "Başlık 3 için content",
-          "date": "06.01.2021",
-          "tags": ["Kök Ödülleri", "İnovasyon"],
-          "link": {
-            "url": "/haberler/turkiye-moldova-sanayi-odasi-forumu",
-            "samePage": true
-          }
-        },
-        {
-          "key": "5",
+      "title": "Başlık 3",
+      "content": "Başlık 3 için content",
+      "date": "06.01.2021",
+      "tags": ["Kök Ödülleri", "İnovasyon"],
+      "link": {
+        "url": "/haberler/turkiye-moldova-sanayi-odasi-forumu",
+        "samePage": true
+      }
+    },
+    {
+      "key": "5",
 
-          "title": "Başlık 4 Çoklu satırlı başlık modeli Çoklu satırlı başlık modeli Çoklu satırlı başlık modeli ",
-          "content": "Başlık 4 için content",
-          "date": "06.01.2021",
-          "tags": ["Kök Ödülleri", "İnovasyon"],
-          "link": {
-            "url": "https://enprobilisim.com",
-            "samePage": false
-          }
-        },
-        {
-          "key": "6",
+      "title": "Başlık 4 Çoklu satırlı başlık modeli Çoklu satırlı başlık modeli Çoklu satırlı başlık modeli ",
+      "content": "Başlık 4 için content",
+      "date": "06.01.2021",
+      "tags": ["Kök Ödülleri", "İnovasyon"],
+      "link": {
+        "url": "https://enprobilisim.com",
+        "samePage": false
+      }
+    },
+    {
+      "key": "6",
 
-          "title": "Başlık 5",
-          "content": "Başlık 5 için content",
-          "date": "06.01.2021",
-          "tags": ["Kök Ödülleri", "İnovasyon"],
-          "link": {
-            "url": "/haberler/turkiye-moldova-sanayi-odasi-forumu",
-            "samePage": true
-          }
-        },
-        {
-          "key": "7",
+      "title": "Başlık 5",
+      "content": "Başlık 5 için content",
+      "date": "06.01.2021",
+      "tags": ["Kök Ödülleri", "İnovasyon"],
+      "link": {
+        "url": "/haberler/turkiye-moldova-sanayi-odasi-forumu",
+        "samePage": true
+      }
+    },
+    {
+      "key": "7",
 
-          "title": "Başlık 6",
-          "content": "Başlık 6 için content",
-          "date": "06.01.2021",
-          "tags": ["Kök Ödülleri", "İnovasyon"],
-          "link": {
-            "url": "https://enprobilisim.com",
-            "samePage": false
-          }
-        }
-      ]
+      "title": "Başlık 6",
+      "content": "Başlık 6 için content",
+      "date": "06.01.2021",
+      "tags": ["Kök Ödülleri", "İnovasyon"],
+      "link": {
+        "url": "https://enprobilisim.com",
+        "samePage": false
+      }
     }
-  }
+  ]
 }
