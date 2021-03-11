@@ -249,5 +249,87 @@
         "samePage": false
       }
     }
+  ],
+  "preview-activities": [
+    {
+      "key": "11",
+      "date": "10 Şubat 2020",
+      "title": "Kök Ödülleri Sahiplerini Buldu",
+      "tags": ["Kök ödülleri, inovasyon"],
+      "src": "https://www.atso.org.tr/yukleme/haber/da27579541d13127b6e1dc55ef160a46.jpg"
+    },
+    {
+      "key": "12",
+      "date": "10 Şubat 2020",
+      "title": "Kök Ödülleri Sahiplerini Buldu",
+      "tags": ["Kök ödülleri, inovasyon"],
+      "src": "https://www.atso.org.tr/yukleme/haber/da27579541d13127b6e1dc55ef160a46.jpg"
+    },
+    {
+      "key": "13",
+      "date": "10 Şubat 2020",
+      "title": "Kök Ödülleri Sahiplerini Buldu",
+      "tags": ["Kök ödülleri, inovasyon"],
+      "src": "https://www.atso.org.tr/yukleme/haber/da27579541d13127b6e1dc55ef160a46.jpg"
+    },
+    {
+      "key": "14",
+      "date": "10 Şubat 2020",
+      "title": "Kök Ödülleri Sahiplerini Buldu",
+      "tags": ["Kök ödülleri, inovasyon"],
+      "src": "https://www.atso.org.tr/yukleme/haber/da27579541d13127b6e1dc55ef160a46.jpg"
+    },
+    {
+      "key": "15",
+      "date": "10 Şubat 2020",
+      "title": "Kök Ödülleri Sahiplerini Buldu",
+      "tags": ["Kök ödülleri, inovasyon"],
+      "src": "https://www.atso.org.tr/yukleme/haber/da27579541d13127b6e1dc55ef160a46.jpg"
+    },
+    {
+      "key": "16",
+      "date": "10 Şubat 2020",
+      "title": "Kök Ödülleri Sahiplerini Buldu",
+      "tags": ["Kök ödülleri, inovasyon"],
+      "src": "https://www.atso.org.tr/yukleme/haber/da27579541d13127b6e1dc55ef160a46.jpg"
+    }
+  ],
+  "preview-statistics": [
+    {
+      "key": "11",
+      "date": "10 Şubat 2020",
+      "title": "Oda Kayıt Belgesi",
+      "text": "18.161"
+    },
+    {
+      "key": "11",
+      "date": "10 Şubat 2020",
+      "title": "Yeni Şirket Kaydı",
+      "text": "3.172"
+    },
+    {
+      "key": "11",
+      "date": "10 Şubat 2020",
+      "title": "Ana Sözleşme Onayı",
+      "text": "2.400"
+    },
+    {
+      "key": "11",
+      "date": "10 Şubat 2020",
+      "title": "Faaliyet Belgesi",
+      "text": "27.510"
+    },
+    {
+      "key": "11",
+      "date": "10 Şubat 2020",
+      "title": "Ticaret Sicil Tastiği",
+      "text": "14.091"
+    },
+    {
+      "key": "11",
+      "date": "10 Şubat 2020",
+      "title": "Ortaklık Belgesi",
+      "text": "1.381"
+    }
   ]
 }
